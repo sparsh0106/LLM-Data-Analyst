@@ -132,3 +132,9 @@ Open `work.ipynb` in Jupyter and run all cells. The Gradio UI will launch at `ht
 - *"How has college establishment grown decade by decade?"*
 - *"How many private unaided colleges are in Maharashtra?"*
 - *"Which district in Tamil Nadu has the most affiliated colleges?"*
+
+---
+
+## 👤 Author
+
+**Sparsh Agarwal** — [GitHub](https://github.com/sparsh0106) · [LinkedIn](https://www.linkedin.com/in/sparsh-agarwal-4b443b304/)
